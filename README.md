@@ -37,4 +37,4 @@ It helped me understand how to design a modern webpage and make it responsive.
 ---
 
 ##  Live Website
- [https://github.com/reena4567/Netflix-clone]
+ [https://github.com/reena4567/Netflix-clone.git]
